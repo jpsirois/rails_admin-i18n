@@ -61,7 +61,7 @@ fr:
         link: "Ajouter un nouveau %{model_label}"
         done: "créé(e)"
       edit:
-        title: "Mofidier %{model_label} '%{object_label}'"
+        title: "Modifier %{model_label} '%{object_label}'"
         menu: "Modifier"
         breadcrumb: "Modifier"
         link: "Modifier ce(tte) %{model_label}"
